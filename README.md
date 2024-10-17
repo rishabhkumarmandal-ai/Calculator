@@ -22,13 +22,6 @@ calculator-project/
 ├── index.html        # HTML structure of the calculator
 ├── style.css         # CSS file for styling the calculator
 └── script.js         # JavaScript file for functionalities
-How to Use
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/calculator-project.git
-Open the Project: Navigate to the directory and open index.html in your preferred browser.
 
 Using the Calculator:
 
